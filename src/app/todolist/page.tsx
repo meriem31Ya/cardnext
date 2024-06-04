@@ -1,3 +1,4 @@
+"use client"
 // Importation des composants nécessaires à partir des fichiers correspondants
 import FormData from '@/components/FormData'
 import Header from '@/components/Header'
